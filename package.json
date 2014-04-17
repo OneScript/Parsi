@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/OneScript/Parsi.git"
   },
+  "dependencies": {
+    "onescript-set": "*"
+  },
   "devDependencies": {
     "mocha": "*",
     "should": "*"
