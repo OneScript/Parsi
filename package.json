@@ -1,24 +1,24 @@
 {
-  "name": "parsi",
-  "version": "0.0.0",
-  "description": "",
-  "main": "lib/parsi.js",
-  "scripts": {
-    "test": "mocha test"
-  },
-  "keywords": [
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/OneScript/Parsi.git"
-  },
-  "dependencies": {
-    "onescript-set": "*"
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "author": "OneScript <onescript.git@gmail.com>",
-  "license": "MIT"
+	"name": "parsi",
+	"version": "0.0.0",
+	"description": "",
+	"main": "lib/parsi.js",
+	"scripts": {
+		"test": "mocha test"
+	},
+	"keywords": [
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/OneScript/Parsi.git"
+	},
+	"dependencies": {
+		"onescript-set": "*"
+	},
+	"devDependencies": {
+		"mocha": "*",
+		"should": "*"
+	},
+	"author": "OneScript <onescript.git@gmail.com>",
+	"license": "MIT"
 }
